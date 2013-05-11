@@ -1,0 +1,11 @@
+/** Links to index.html **/
+
+body {
+    text-align: center;
+}
+
+#myCanvas {
+    width: 450px;
+    height: 500px;
+    background-color: rgba(10, 10, 10, 1);
+}
